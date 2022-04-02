@@ -25,4 +25,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: ji5626996/vpn0402
+          tags: jk5626996/vpn0402
